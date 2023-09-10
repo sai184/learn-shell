@@ -1,1 +1,0 @@
-echo "nagarjuna"<myfile.txt
