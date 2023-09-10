@@ -1,2 +1,2 @@
 a=25
-echo "value of a ="" $a
+echo "value of a =" $a
