@@ -1,1 +1,1 @@
-echo Nagarjuna
+echo Nagarjuna> myfile.txt
