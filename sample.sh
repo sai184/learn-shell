@@ -1,1 +1,2 @@
-echo Nagarjuna> myfile.txt
+echo Nagarjuna > myfile.txt
+echo borras > myfile.txt
